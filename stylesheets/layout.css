@@ -1,0 +1,580 @@
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "OpenSans-Regular";
+    background-color: rgba(44, 43, 82, 1);
+    overflow-x: hidden;
+    width: 100%;
+    height: min-content;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    overflow-x: hidden;
+  }
+.header_bg {
+  width: 110vw;
+  top: -85px;
+  left: -7vw;
+  position: absolute;
+}
+
+.logo {
+  width: 50vw;
+  top: 10vw;
+display: flex;
+left: 27vw;
+  position: relative;
+}
+.klubn {
+  position: absolute;
+}
+.k1 {
+  width: 25vw;
+  top: 3vw;
+  left: 10vw;
+animation: klubnika 8s infinite;
+ animation-direction: alternate ;
+ 
+
+}
+.k2 {
+  width: 15vw;
+  top: 1vw;
+  left: 70vw;
+  animation: klubnika 8s infinite;
+ animation-direction: alternate ;
+ 
+  
+
+
+}
+.k3 {
+  width: 15vw;
+  top: 42vw;
+  left: 73vw;
+  animation: klubnika2 8s infinite;
+
+ animation-direction: alternate ;
+ 
+  
+ 
+
+}
+.k4 {
+  width: 20vw;
+  top: 45vw;
+  left: 12vw;
+  animation: klubnika3 8s infinite;
+  
+     animation-direction: alternate ;
+     
+  
+    
+  
+}
+
+
+.img_shar {
+  width: 35vw;
+  top: 4.5vw;
+  left: 36vw;
+  position: relative;
+}
+
+.t1 img {
+  width: 1.8vw;
+}
+.t2 img {
+  width: 10vw;
+}
+.t3 img {
+  width: 13vw;
+}
+.t4 img {
+  width: 26vw;
+}
+.t5 img {
+  width: 11vw;
+}
+.t6 img {
+  width: 20vw;
+}
+.t7 img {
+  width: 15vw;
+}
+.t8 img {
+  width: 32vw;
+}
+.t9 img {
+  width: 26vw;
+}
+.t10 img {
+  width: 21vw;
+}
+.t11 img {
+  width: 2vw;
+}
+.t12 img {
+  width: 15vw;
+}
+.t13 img {
+  width: 29vw;
+}
+.t14 img {
+  width: 29vw;
+}
+.t15 img {
+  width: 28vw;
+}
+.t16 img {
+  width: 25vw;
+}
+.t17 img {
+  width: 28vw;
+}
+.t18 img {
+  width: 20vw;
+}
+.t1 {
+ 
+  left: 52.5vw;
+top: 80vw;
+}
+.t2 {
+ 
+  left: 43vw;
+top: 68vw;
+}
+.t3 {
+ 
+  left: 34vw;
+top: 80vw;
+}
+.t4 {
+ 
+  left: 19vw;
+top: 100vw;
+}
+.t5 {
+ 
+  left: 34vw;
+top: 103vw;
+}
+.t6 {
+ 
+  left: 20vw;
+top: 107vw;
+}
+.t7 {
+ 
+  left: 30vw;
+top: 110vw;
+}
+.t8 {
+ 
+  left: 10vw;
+top: 113vw;
+}
+.t9 {
+ 
+  left: 22vw;
+top: 110vw;
+}
+.t10 {
+ 
+  left: 30vw;
+top: 111vw;
+}
+.t11 {
+ 
+  left: 50vw;
+top: 115vw;
+}
+.t12 {
+ 
+  left: 53vw;
+top: 120vw;
+}
+.t13 {
+ 
+  left: 53vw;
+top: 117vw;
+}
+.t14 {
+ 
+  left: 55vw;
+top: 115vw;
+}
+.t15 {
+ 
+  left: 62vw;
+top: 109vw;
+}
+.t16 {
+ 
+  left: 66vw;
+top: 101vw;
+}
+.t17 {
+ 
+  left: 58.5vw;
+top: 76vw;
+}
+.t18 {
+ 
+  left: 57vw;
+top: 59vw;
+}
+
+.thing {
+  width: 0vw;
+position: absolute;
+  margin-bottom: 10px;
+  opacity: 1;
+
+  /* Shared animation proprties apply to all */
+  animation-name: pulse;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+/* These are the delays */
+.thing:nth-child(1) {animation-delay: 0.0s; }
+.thing:nth-child(2) {animation-delay: 0.5s; }
+.thing:nth-child(3) {animation-delay: 1.0s; }
+.thing:nth-child(4) {animation-delay: 1.5s; }
+.thing:nth-child(5) {animation-delay: 2.0s; }
+.thing:nth-child(6) {animation-delay: 2.5s; }
+.thing:nth-child(7) {animation-delay: 3s; }
+.thing:nth-child(8) {animation-delay: 3.5s; }
+.thing:nth-child(9) {animation-delay: 4s; }
+.thing:nth-child(10) {animation-delay: 4.5s; }
+.thing:nth-child(11) {animation-delay: 5s; }
+.thing:nth-child(12) {animation-delay: 5.5s; }
+.thing:nth-child(13) {animation-delay: 6s; }
+.thing:nth-child(14) {animation-delay: 6.5s; }
+.thing:nth-child(15) {animation-delay: 7s; }
+.thing:nth-child(16) {animation-delay: 7.5s; }
+.thing:nth-child(15) {animation-delay: 8s; }
+.thing:nth-child(16) {animation-delay: 8.5s; }
+.thing:nth-child(15) {animation-delay: 9s; }
+.thing:nth-child(16) {animation-delay: 9.5s; }
+
+
+
+.block1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30vw;
+  background: rgb(95, 30, 102);
+  height:80.55555555555556vw;
+  width: 100%;
+}
+.two {
+  margin-left: 2vw;
+}
+.ch1 {
+  width: 35vw;
+position: relative;
+top: 22vw;
+animation: shake2 2s;
+animation-iteration-count: infinite;
+}
+
+.ch2 {
+  width: 31vw;
+  position: relative;
+  top: 22vw;
+  animation: shake 2s;
+  animation-iteration-count: infinite;
+  }
+  
+ .com {
+  width: 80vw;
+  margin-top: 4vw;
+  margin-left: 5vw;
+  position: absolute;
+ }
+.block1 h1{
+  width: 100%;
+  font-size: 2.9vw;
+  position: absolute;
+  font-family: "OpenSans-SemiBoldItalic";
+  color: white;
+}
+ .h1-bl1 { 
+  left: 17vw;
+  font-size: 3vw;
+  top: 174vw;
+color: white;
+ }
+ .h1-bl2 {
+  font-size: 3vw;
+  left: 57vw;
+  top: 166vw;
+color: white;
+ }
+
+
+ .line1 {
+  position: relative;
+  top: 45vw;
+  width: 100%;
+  height: 0;
+  border: 0.3129890453834116vw solid rgb(255, 230, 189);
+ }
+ .line2 {
+  position: relative;
+  top: 89vw;
+  width: 100%;
+  height: 0;
+  border: 0.3129890453834116vw solid rgb(255, 230, 189);
+
+
+ }
+ .block2 {
+  width: 100%;
+  height:86.55555555555556vw;
+ }
+ .bot1-bl {
+  max-width: max-content;
+ }
+ .bot2-bl {
+  margin: auto;
+  margin-top: 5vw;
+  max-width: max-content;
+ }
+ .bot1-bl {
+  margin: auto;
+ }
+
+ .botle_img {
+  
+margin-left: 3vw;
+  animation-name: botle;
+animation-duration: 2s;
+animation-fill-mode: forwards;
+
+
+
+ }
+
+ .bot1-bl {
+  margin-left: 5vw;
+  animation-delay: 5s;
+  animation-name: botle;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+ }
+ .bot2-bl {
+  margin-left: 5vw;
+  animation-delay: 5s;
+  animation-name: botle;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+ }
+ 
+.b1 {
+  width: 25vw;
+  animation: tilt-n-move-shaking 0.5s infinite;
+}
+
+
+.b2 {
+  width: 12vw;
+  animation: tilt-n-move-shaking 0.5s infinite;
+}
+
+
+.b3 {
+  width: 17vw;
+  animation: tilt-n-move-shaking 0.5s infinite;
+}
+
+.b4 {
+  width: 19vw;
+  animation: tilt-n-move-shaking2 0.5s infinite;
+}
+
+
+.b5 {
+  width: 15vw;
+  animation: tilt-n-move-shaking 0.5s infinite;
+}
+
+
+.block3 {
+  padding: 10vw 0vw;
+  background-color: rgba(95, 30, 102, 1);
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 13vw
+}
+.man {
+  width: 40vw;
+}
+.txt1 {
+  margin-top: 5vw;
+  margin-left: -33.5vw;
+
+
+  color: rgb(255, 255, 255);
+  font-family: "OpenSans-SemiBoldItalic";
+  position: absolute;
+  text-align: center;
+  font-size: 6vw;
+
+font-weight: 600;
+
+letter-spacing: 0%;
+text-align: center;
+  width: 0ch;
+  white-space: nowrap;
+  overflow: hidden;
+ 
+  /* write 2 steps less than the actual */
+  animation: textanimation 4s steps(60);
+animation-direction:alternate;
+  animation-iteration-count: infinite;
+
+}
+.txt2 {
+  color: rgb(255, 255, 255);
+  font-family: "OpenSans-SemiBoldItalic";
+  position: absolute;
+  text-align: center;
+  font-size: 6vw;
+
+font-weight: 600;
+
+letter-spacing: 0%;
+text-align: center;
+  width: 0ch;
+  white-space: nowrap;
+  overflow: hidden;
+
+  /* write 2 steps less than the actual */
+  animation: textanimation2 4s steps(60);
+animation-direction:alternate;
+  animation-iteration-count: infinite;
+  margin-top: 5vw;
+  margin-left: 50.5vw;
+}
+
+
+
+
+
+
+.gerlanda_img {
+  margin-left: 1vw;
+  width: 97vw;
+  margin-top: 14vw;
+  margin-bottom: 14vw;
+}
+
+
+
+
+.ger11 {
+  top:-26.3vw ;
+  left: 2vw;
+}
+
+.ger12 {
+  top:-38.3vw ;
+  left: 15vw;
+}
+.ger13 {
+  top:-35.3vw ;
+  left: 24vw;
+}
+.ger14 {
+  top:-43.3vw ;
+  left: 35.1vw;
+}
+.ger15 {
+  top:-51vw ;
+  left: 25.1vw;
+}
+.ger16 {
+  top:-24vw ;
+  left: 44.1vw;
+}
+.ger17 {
+  top:-22.7vw ;
+  left: 28vw;
+}
+.ger18 {
+  top:-22.7vw ;
+  left: 55.8vw;
+}
+.ger19 {
+  top:-22.7vw ;
+  left: 65.8vw;
+}
+.ger20 {
+  top:-33vw ;
+  left: 62vw;
+}
+.ger21 {
+  top:-23.9vw ;
+  left: 79vw;
+}
+.gerlanda img {
+  width: 6.3vw;
+}
+.gerlanda{
+  width: 0vw;
+position: absolute;
+  margin-bottom: 10px;
+  opacity: 1;
+  /* Shared animation proprties apply to all */
+  animation-name: pulse2;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+/* These are the delays */
+.gerlanda:nth-child(1) {animation-delay: 6.6s; }
+.gerlanda:nth-child(2) {animation-delay: 3.5s; }
+.gerlanda:nth-child(3) {animation-delay: 5.5s; }
+.gerlanda:nth-child(4) {animation-delay: 9s; }
+.gerlanda:nth-child(5) {animation-delay: 7s; }
+.gerlanda:nth-child(6) {animation-delay: 5s; }
+.gerlanda:nth-child(7) {animation-delay: 2s; }
+.gerlanda:nth-child(8) {animation-delay: 3s; }
+.gerlanda:nth-child(9) {animation-delay: 4s; }
+.gerlanda:nth-child(10) {animation-delay: 5s; }
+.gerlanda:nth-child(11) {animation-delay: 6s; }
+
+
+
+.footer {
+  background: rgb(95, 30, 102);
+  width: 100%;
+  height: 42.87949921752739vw;
+}
+.footerklubnika {
+  width: 17vw;
+  position: relative;
+left: 18vw ;
+top: 7vw;
+}
+.logofooter {
+  width: 40vw;
+  position: relative;
+  left: 26vw ;
+  top: 7vw;
+}
+
+.footer h1 {
+  position: relative;
+  top: 3vw;
+  left: 5vw;
+  color: white;
+  font-size: 5vw;
+  font-family: "OpenSans-SemiBoldItalic";
+}

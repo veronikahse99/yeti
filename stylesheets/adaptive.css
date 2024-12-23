@@ -1,0 +1,56 @@
+/* мобильная версия */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    
+.block1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30vw;
+    background: rgb(95, 30, 102);
+    height:80.55555555555556vw;
+    width: 100%;
+  }
+
+  .bot1-bl {
+    margin-left: 1vw;
+    animation-delay: 5s;
+    animation-name: botle;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+   }
+   .bot2-bl {
+    margin-left: 1vw;
+    animation-delay: 5s;
+    animation-name: botle;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+   }
+   .b1 {
+    width: 19vw;
+    animation: tilt-n-move-shaking 0.5s infinite;
+  }
+  
+  
+  .b2 {
+    width: 10vw;
+    animation: tilt-n-move-shaking 0.5s infinite;
+  }
+  
+  
+  .b3 {
+    width: 17vw;
+    animation: tilt-n-move-shaking 0.5s infinite;
+  }
+  
+  .b4 {
+    width: 18vw;
+    animation: tilt-n-move-shaking2 0.5s infinite;
+  }
+  
+  
+  .b5 {
+    width: 15vw;
+    animation: tilt-n-move-shaking 0.5s infinite;
+  }
+  
+   
+}

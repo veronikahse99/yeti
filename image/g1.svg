@@ -1,0 +1,12 @@
+<svg width="83.000000" height="85.000000" viewBox="0 0 83 85" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<radialGradient gradientTransform="translate(41.5 42.5) rotate(90) scale(42.5 41.5)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_Diamond_2002_1283_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E719F9"/>
+			<stop offset="1.000000" stop-color="#FF6969"/>
+		</radialGradient>
+	</defs>
+	<ellipse id="Ellipse 185" cx="41.500000" cy="42.500000" rx="41.500000" ry="42.500000" fill="url(#paint_Diamond_2002_1283_0)" fill-opacity="1.000000"/>
+</svg>

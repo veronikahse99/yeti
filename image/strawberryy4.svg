@@ -1,0 +1,20 @@
+<svg width="341" height="309" viewBox="0 0 341 309" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M264.148 116.758C306.779 180.024 360.562 234.762 333.858 281.569C307.154 328.377 258.21 303.923 163.955 279.995C98.7506 235.779 71.03 168.259 97.7339 121.452C124.438 74.644 198.944 72.5427 264.148 116.758Z" fill="url(#paint0_radial_661_2)"/>
+<path d="M30.635 159.246L95.7986 135.718L93.3828 205.446L30.635 159.246Z" fill="#61D157"/>
+<path d="M36.8823 71.9188L120.875 102.465L89.5146 147.94L36.8823 71.9188Z" fill="#61D157"/>
+<path d="M78.3468 28.2256L155.914 76.677L114.076 112.135L78.3468 28.2256Z" fill="#61D157"/>
+<ellipse cx="5.35405" cy="5.69075" rx="5.35405" ry="5.69075" transform="matrix(0.85196 -0.523607 0.558814 0.829293 145.031 176.693)" fill="white"/>
+<ellipse cx="6.2464" cy="5.69075" rx="6.2464" ry="5.69075" transform="matrix(0.85196 -0.523607 0.558814 0.829293 191.789 155.145)" fill="white"/>
+<ellipse cx="5.80022" cy="5.69075" rx="5.80022" ry="5.69075" transform="matrix(0.85196 -0.523607 0.558814 0.829293 180.084 209.566)" fill="white"/>
+<ellipse cx="6.2464" cy="5.69075" rx="6.2464" ry="5.69075" transform="matrix(0.85196 -0.523607 0.558814 0.829293 242.423 171.254)" fill="white"/>
+<ellipse cx="5.80022" cy="6.1285" rx="5.80022" ry="6.1285" transform="matrix(0.85196 -0.523607 0.558814 0.829293 232.682 242.951)" fill="white"/>
+<ellipse cx="6.2464" cy="6.1285" rx="6.2464" ry="6.1285" transform="matrix(0.85196 -0.523607 0.558814 0.829293 138.158 227.121)" fill="white"/>
+<ellipse cx="5.80022" cy="6.1285" rx="5.80022" ry="6.1285" transform="matrix(0.85196 -0.523607 0.558814 0.829293 298.373 230.073)" fill="white"/>
+<ellipse cx="5.80022" cy="6.1285" rx="5.80022" ry="6.1285" transform="matrix(0.85196 -0.523607 0.558814 0.829293 149.511 119.523)" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_661_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(216.599 200.104) rotate(34.1415) scale(142.647 95.6679)">
+<stop stop-color="#FF1212"/>
+<stop offset="1" stop-color="#FF00C3"/>
+</radialGradient>
+</defs>
+</svg>

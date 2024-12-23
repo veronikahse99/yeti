@@ -1,0 +1,19 @@
+<svg width="224" height="254" viewBox="0 0 224 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.898528 109.186C2.8821 168.259 -9.65826 225.849 40.9488 247.216C91.5559 268.584 118.18 233.299 183.347 180.992C211.835 126.127 194.72 69.9002 144.113 48.5329C93.5056 27.1656 29.3864 54.3208 0.898528 109.186Z" fill="url(#paint0_radial_661_2)"/>
+<path d="M223.874 45.7291L158.401 58.0075L196.724 100.839L223.874 45.7291Z" fill="#61D157"/>
+<path d="M163.757 2.61426L127.9 49.4045L162.962 64.3248L163.757 2.61426Z" fill="#61D157"/>
+<path d="M120.752 -0.861987L99.3342 44.9807L130.749 49.6705L120.752 -0.861987Z" fill="#61D157"/>
+<ellipse cx="8" cy="4.5" rx="8" ry="4.5" transform="matrix(-1 0 0 1 92.21 96.7695)" fill="white"/>
+<ellipse cx="6" cy="3.5" rx="6" ry="3.5" transform="matrix(-1 0 0 1 132.21 131.77)" fill="white"/>
+<ellipse cx="6.5" cy="3.5" rx="6.5" ry="3.5" transform="matrix(-1 0 0 1 55.21 131.77)" fill="white"/>
+<ellipse cx="5.5" cy="5" rx="5.5" ry="5" transform="matrix(-1 0 0 1 105.21 175.77)" fill="white"/>
+<ellipse cx="7" cy="5" rx="7" ry="5" transform="matrix(-1 0 0 1 179.21 125.77)" fill="white"/>
+<ellipse cx="7" cy="5.5" rx="7" ry="5.5" transform="matrix(-1 0 0 1 41.21 188.77)" fill="white"/>
+<ellipse cx="5.5" cy="5" rx="5.5" ry="5" transform="matrix(-1 0 0 1 105.21 53.7695)" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_661_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(91.0099 147.232) rotate(117.44) scale(111.935 97.5059)">
+<stop stop-color="#FF1212"/>
+<stop offset="1" stop-color="#FF00C3"/>
+</radialGradient>
+</defs>
+</svg>
